@@ -39,3 +39,23 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# dependencies
+/node_modules
+
+
+
+
+Thumbs.db
+
+# editor
+.vscode/
+!.vscode/extensions.json
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Firebase credentials — you'll add this file soon for the Android app, block it now
+google-services.json

@@ -1,0 +1,21 @@
+[
+  { "id": "makar-sankranti-2026", "name": "Makar Sankranti", "date": "2026-01-14", "category": "major", "shortDescription": "Harvest festival marking the sun's transit into Capricorn." },
+  { "id": "republic-day-2026", "name": "Republic Day", "date": "2026-01-26", "category": "national", "shortDescription": "Commemorates the adoption of the Indian Constitution." },
+  { "id": "maha-shivratri-2026", "name": "Maha Shivratri", "date": "2026-02-15", "category": "major", "shortDescription": "Great night of Shiva, marked by fasting and night vigils." },
+  { "id": "holi-2026", "name": "Holi", "date": "2026-03-04", "category": "major", "shortDescription": "Festival of colors celebrating the arrival of spring." },
+  { "id": "gudi-padwa-2026", "name": "Gudi Padwa / Ugadi", "date": "2026-03-19", "category": "major", "shortDescription": "New Year celebration in Maharashtra, Karnataka, and Andhra Pradesh." },
+  { "id": "ram-navami-2026", "name": "Ram Navami", "date": "2026-03-26", "category": "major", "shortDescription": "Celebrates the birth of Lord Rama." },
+  { "id": "hanuman-jayanti-2026", "name": "Hanuman Jayanti", "date": "2026-04-02", "category": "major", "shortDescription": "Celebrates the birth of Lord Hanuman." },
+  { "id": "akshaya-tritiya-2026", "name": "Akshaya Tritiya", "date": "2026-04-19", "category": "major", "shortDescription": "Auspicious day for new beginnings and gold purchases." },
+  { "id": "independence-day-2026", "name": "Independence Day", "date": "2026-08-15", "category": "national", "shortDescription": "Commemorates India's independence in 1947." },
+  { "id": "raksha-bandhan-2026", "name": "Raksha Bandhan", "date": "2026-08-28", "category": "major", "shortDescription": "Celebrates the bond between brothers and sisters." },
+  { "id": "janmashtami-2026", "name": "Janmashtami", "date": "2026-09-04", "category": "major", "shortDescription": "Celebrates the birth of Lord Krishna." },
+  { "id": "ganesh-chaturthi-2026", "name": "Ganesh Chaturthi", "date": "2026-09-14", "category": "major", "shortDescription": "Celebrates the birth of Lord Ganesha, marked by public celebrations." },
+  { "id": "navratri-2026", "name": "Navratri Begins", "date": "2026-10-11", "category": "major", "shortDescription": "Nine nights honoring the goddess Durga." },
+  { "id": "dussehra-2026", "name": "Dussehra", "date": "2026-10-20", "category": "major", "shortDescription": "Celebrates the victory of good over evil." },
+  { "id": "karva-chauth-2026", "name": "Karva Chauth", "date": "2026-10-29", "category": "major", "shortDescription": "Fasting festival observed by married women for their spouse's wellbeing." },  
+  { "id": "dhanteras-2026", "name": "Dhanteras", "date": "2026-11-06", "category": "major", "shortDescription": "Marks the start of Diwali celebrations, associated with wealth and prosperity." },
+  { "id": "diwali-2026", "name": "Diwali", "date": "2026-11-08", "category": "major", "shortDescription": "Festival of lights celebrating the victory of light over darkness." },
+  { "id": "bhai-dooj-2026", "name": "Bhai Dooj", "date": "2026-11-10", "category": "major", "shortDescription": "Celebrates the bond between brothers and sisters, marking the end of Diwali." },
+  { "id": "christmas-2026", "name": "Christmas", "date": "2026-12-25", "category": "national", "shortDescription": "Celebrates the birth of Jesus Christ." }
+]
