@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Festival Reminder</string>
+    <string name="title_activity_main">Festival Reminder</string>
+    <string name="package_name">com.mrunal.festivalreminder</string>
+    <string name="custom_url_scheme">com.mrunal.festivalreminder</string>
+</resources>

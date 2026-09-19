@@ -58,4 +58,6 @@ Thumbs.db
 next-env.d.ts
 
 # Firebase credentials — you'll add this file soon for the Android app, block it now
+
+
 google-services.json
